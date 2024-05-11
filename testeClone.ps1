@@ -1,1 +1,1 @@
-Arquivo criado antes do clone.
+Arquivo criado antes do clone depois do clone
